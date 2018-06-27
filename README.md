@@ -1,14 +1,14 @@
-[<img src="docs/DulceHorizontal.svg" width="1300" title="">](https://dulce-work-schedule.github.io/)
+[<img src="docs/DulceHorizontal.svg" width="1300" title="">](https://fga-gpp-mds.github.io/2018.1-Dulce_Docs/)
 # Dulce Report
 
-[![Build Status](https://travis-ci.org/Dulce-Work-Schedule/2018.1-Dulce_Report.svg?branch=master)](https://travis-ci.org/Dulce-Work-Schedule/2018.1-Dulce_Report)
-[![Maintainability](https://api.codeclimate.com/v1/badges/7e9e4a1a322533b1dc8f/maintainability)](https://codeclimate.com/github/Dulce-Work-Schedule/2018.1-Dulce_Report/maintainability)
-[![Coverage Status](https://coveralls.io/repos/github/Dulce-Work-Schedule/2018.1-Dulce_Report/badge.svg?branch=master)](https://coveralls.io/github/Dulce-Work-Schedule/2018.1-Dulce_Report?branch=master)
+[![Build Status](https://travis-ci.org/fga-gpp-mds/2018.1-Dulce_Report.svg?branch=master)](https://travis-ci.org/fga-gpp-mds/2018.1-Dulce_Report)
+[![Maintainability](https://api.codeclimate.com/v1/badges/7e9e4a1a322533b1dc8f/maintainability)](https://codeclimate.com/github/fga-gpp-mds.github.io/2018.1-Dulce_Report/maintainability)
+[![Coverage Status](https://coveralls.io/repos/github/fga-gpp-mds.github.io/2018.1-Dulce_Report/badge.svg?branch=master)](https://coveralls.io/github/fga-gpp-mds.github.io/2018.1-Dulce_Report?branch=master)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Microsserviços de Relatórios
 
-O microsserviço Report é utilizado pelo app [Dulce](https://dulce-work-schedule.github.io/2018.1-Dulce_App/) para gerar relatórios estatísticos que auxiliam na gestão de escalas. Report retornará as seguintes informações:
+O microsserviço Report é utilizado pelo app [Dulce](https://fga-gpp-mds.github.io/2018.1-Dulce_Docs/) para gerar relatórios estatísticos que auxiliam na gestão de escalas. Report retornará as seguintes informações:
 
 * Média histórica de plantonistas por horário por dia ou setor;
 * Estatística de plantonistas por horário por setor ou instituição;
